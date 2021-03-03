@@ -1,0 +1,1 @@
+A Repository for a temporary active directory domain.
